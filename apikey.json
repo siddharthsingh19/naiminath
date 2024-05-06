@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "namcproject",
+  "private_key_id": "fe5aab2d2c7d5dc7038362920dc492433b6daedf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC5tlYEvuTjwi47\nz5OSvdTxK1Xuinc0rrc5eez1d6UY8Ca8M5ih9+6WwNAQvhs+IAKDAWJSvYiMc3FO\noZD8fq/9oO+pCy8bSEMOCf8q4KP/ikwojmrl2MIFiz4yWkEpIugwz59Fme2WkriL\nkORU3YvqVf5g3pQQ6F0aXP8DAm2brJEGH8/U/Xxos8WU/rzjw9ND4yBLS/GRdNvu\noHMBD/dmf1U9PnaptQLsSSRZ1DVwonoi3H6/FlaPtl+C0o1nLkCEx9tJ3WR6esL2\ngLz0ubrjXrLoIVFvs/+93VNejOr9dWCCHIi1pFXbhVgoLwWEMurjCsbKLDGmD8qI\n8mAobpeVAgMBAAECggEAFrvsOE0BGqOXAtHkpCJSesp+DMNNF/kqa2ISYLNKleyy\nJThgvzUpczF71wzaq2aCQDTPa0cR+/WW4ZQUOmCs3SzSIdzBYcLdGI8fOknBMcNl\nktJqYiRAjiqvTL0xPF6uU2lbO0s+Y0AnUMiGNyBe5CsuRoAA2rgDS7qmKiFmNxf5\nt1F9O21l2AVoii+tB6udIbdBfZltrHnqX0FaRIJe2Ej1s9RWEhScbf5AuxQAoJdu\ndNRu6Vg/RKfya8Y7Ll9WPbvBIGv/5t0U/XnBQAPagwc9jXH4L9888NZX7wKAW/Z3\nc3UZkp4bHWwga0b8/V3R5Ii1AanpP2LVVymxr05RQQKBgQDnaZ7qR6eabz0EVvjH\nlb+653dryartBdeJZcilfao2yZQT3WhvaTsEJ9Ez/kDaPhwTSstHruyI8tuluZw7\n/cO759QoH+C5vlzSOBKMQG4qg5aL1eITazY1KK8ObMeBm4OFs71fVxv1mr84UXKY\nDob4FLnSaZd+/F9jMVnOxqK31QKBgQDNcay6/ODMisEwcWoK7Z0RBPP7owAroRg3\nv863RNnVv3WArFA2SeyCW5/0NUsC6trdL+aoCXcbk/4icwMvUkgDM+5FkvLN+6QN\nPKvtblKlnxsO6wOPS6S3+CFYa/Y0gIsV8cP0ObYyv+ByU8qYQS3VtZdikGZF06vN\nMExx+7oAwQKBgQCmt5pMsMjX4xIzgTEEISebUMzhc83XqyDIFPND/s/VXs52rUlj\nEo35BXKboa45TQvO/lCLWUOBum1x7NHZCo6sXm2jZqvxRWr77He4YWa87EZWggW4\n9cF89M2Bd+8XueE8PuzMtiYngJAI0+zaDYVBTzU8mOQTEWDrRo+r/8EU7QKBgGtp\nyK7HMl2fGlzSn2fxThKs7UeetKMbCgdz4IePlvkbrjrFXPbVdbO+ZgYPqxVuZ1oI\nBmfK8xxXJyMp0Pt34LDUAPsdVpd9vwswso9kBBAV/Nay51yPZyLMt9p8L/DJWG7z\nxck2N12XVqlPx/gM9ALte6YL630Mq6GPZBigTWLBAoGADzAQyMEdBxpXnb4wnuBl\ntDoFT+ldEcRmWB5gHDHMG/vyfYoiPSMKPOKARNmY7MPi2D6ZV/dzGqFWsFmAg28I\nWHqhZbdiRVyzzMcUxrDLTX/GPBUvy2Uk4zFN78C4GGUpm4c/PVc9WejoI1sZ6gzb\njeQr+QE8VBFnggJGCr0B4c8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "googledriveservice@namcproject.iam.gserviceaccount.com",
+  "client_id": "115092339600701671333",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/googledriveservice%40namcproject.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

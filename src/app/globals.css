@@ -1,0 +1,37 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+/* styles/globals.css */
+
+
+/* Add any other global styles you want */
+
+/* // Styling the default Slick dots */
+
+
+
+/* .slick-slide {
+   spacing in between each slide 
+  margin: 0 0px;
+} */
+
+/* .slick-list {
+   spacing in between the group of slides 
+  padding: 0 20px;
+} */
+
+/* .slick-track {
+  spacing for the slider itself 
+  min-height: 50px;
+} */
+
+/* .slide {
+  position: relative;
+  float: left;
+} */
+
+/* .slide:nth-child(3n + 2) {
+  top: 10em;
+  z-index: 1;
+} */

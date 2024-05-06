@@ -1,0 +1,30 @@
+.item {
+    position: relative;
+    font-size: 13px;
+    line-height: 1.4;
+    padding: 8px 12px;
+    cursor: pointer;
+    user-select: none;
+    outline: none;
+    transition: all 160ms ease-out;
+    white-space: nowrap;
+    display: flex;
+    align-items: center;
+    color: #172B4D;
+    background-color: #e3dd30;
+}
+
+.item:hover {
+    background-color: #353533;
+    color: #f6f7f6;
+}
+
+.item:hover > div {
+    display: flex;
+    flex-direction: row; 
+}
+
+.active {
+    background-color: #fff5ee;
+    color: #2C5DE5 !important;
+}
